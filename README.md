@@ -9,7 +9,6 @@ FrontEnd classes and exercises from Generation Brazil, starting 08-02-2021
 *<b>BootStrap</b> - not started yet<br>
 
 ***
-<align center>
 ![meme](https://live.staticflickr.com/65535/50818726808_68c90f2c3c_z.jpg)
-</align center>
+
 ***
