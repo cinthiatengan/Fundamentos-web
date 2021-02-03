@@ -17,3 +17,8 @@ FrontEnd classes and exercises from Generation Brazil, starting 08-02-2021
 My first page in pure html and CSS:
 
 ![page1](https://i.imgur.com/9PIMXbE.png)
+
+***
+Contato page:
+
+![page2](https://i.imgur.com/VGZmS77.png)
